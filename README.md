@@ -12,3 +12,9 @@ If the user selects 1, the application assigns a seat in the first-class section
 The seating chart of the plane is represented using a one-dimensional array of primitive type boolean. All elements of the array are initialized to false to indicate that all seats are initially empty. As each seat is assigned, the corresponding element of the array is set to true to indicate that the seat is no longer available. The application must ensure that a seat is never assigned more than once.
 
 If the economy section is full, the application prompts the passenger to accept a seat in the first-class section, and vice versa. If the passenger agrees, the application assigns a seat in the alternate section. If the passenger declines, the application displays the message: "Next flight leaves in 3 hours.
+
+---------------------------------------------------------------
+This is how it looks:
+
+<img width="729" height="660" alt="AirlineReservations" src="https://github.com/user-attachments/assets/a237bb25-3ced-4ade-a71f-0098fab54fe0" />
+
